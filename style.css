@@ -1,0 +1,34 @@
+body {
+	background-color:#dbdbf0;
+	margin:20px 40px 20px 40px;
+	padding: 25px 100px 75px 100px;
+}
+
+h1 {
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	text-align:center;
+}
+
+h2 {
+	font-family:"Garamond", "Book Antiqua", serif;
+}
+
+p {
+	font-family:"Times New Roman", Times, serif;
+	margin:0 50px 0 10px
+}
+
+nav {
+	font-family:Verdana, Geneva, sans-serif;
+	text-align:center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+nav {
+	text-align: center;
+}
